@@ -1,0 +1,3 @@
+filename="test.txt.txt"
+file=open(filename,'r')
+file.close()
