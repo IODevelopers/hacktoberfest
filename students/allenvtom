@@ -1,0 +1,12 @@
+a=float(input("enter the first number"))
+b=float(input("enter the second numbwer"))
+c=input("*,/,-,+")
+if c=="*":
+	r=a*b
+elif c=="/":
+	type:
+elif c=="-":
+	r=a-b
+elif c=="+":
+	r=a+b
+print(r)
