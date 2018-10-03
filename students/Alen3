@@ -1,0 +1,29 @@
+a=float(input("Enter the no a "))
+b=float(input("Enter the no b"))
+print("\n Modes \n 1.. Addition \n 2.. Subtraction")
+print("\n 3.. multiplication \n 4.. Divission ")
+print("\n 5.. Division(floor) \n 6.. Modulus ")
+c=float(input("\n Enter the Mode "))
+if c == 1:
+  add=a+b
+  print("The sum is",add)
+elif c == 2:
+  sub=a-b
+  print("The diff is",sub)
+  
+elif c == 3:
+  mul=a*b
+  print("The prod is",mul)
+
+elif c == 4:
+  quo=a/b
+  print("The quoient is",quo)
+
+elif c == 5:
+  quo1=a//b
+  print("The quoient is",quo1)
+
+elif c == 6 :
+  mod=a%b
+  print("The modulus is",mod)
+  end
