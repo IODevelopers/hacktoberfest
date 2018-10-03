@@ -1,0 +1,7 @@
+#basic code for a recursive loop in python
+def fnname(a,b)
+    if(f>n)
+    f=a+b
+    b=a
+    a=f
+    return f
