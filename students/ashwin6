@@ -1,0 +1,12 @@
+import os
+print(os.listdir())
+filename='test.txt'
+'''
+file=open(filename,'r')
+print(file.readline())'''
+file=open(filename,'w')
+file.write('By Ashwin')
+file.close()
+file=open(filename,'r')
+print(file.read())
+file.close()
