@@ -1,0 +1,8 @@
+def add_numbers(x,y):
+   sum = x + y
+   return sum
+
+num1 = int(input("enter first number"))
+num2 = int(input("enter second number"))
+
+print("The sum is", add_numbers(num1, num2))
