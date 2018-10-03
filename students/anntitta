@@ -1,0 +1,3 @@
+n=int(input("enter the limit"))
+for i in range 10
+      print(i)
