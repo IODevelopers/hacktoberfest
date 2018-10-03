@@ -1,0 +1,21 @@
+starting_day=int(input("enter the day no:"))
+if(starting_day>6):
+	print("invalid input")
+else:
+	day_spend=int(input("enter the no of days spend"))
+	return_day=((day_spend%7)+starting_day)%7
+	if(return_day==0):
+		print("return day=sunday")
+	elif return_day==1:
+		print("return day=monday")
+	elif return_day==2:
+		print("return day=tuesday")
+	elif return_day==3:
+		print("return day=wedensday")
+	elif return_day==4:
+		print("return day=thursday")
+	elif return_day==5:
+		print("return day=friday")
+	elif return_day==6:
+		print("return day=saturday")
+	 
