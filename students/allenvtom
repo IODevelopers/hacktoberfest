@@ -1,0 +1,6 @@
+try:
+	a=input("enter the operation")
+	result=eval(a)
+	print(result)
+except:
+	print("there is an exception zero division")
