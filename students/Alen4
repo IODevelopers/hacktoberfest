@@ -1,0 +1,11 @@
+filename="test.txt"
+file=open(filename,'r')
+print(file.read())
+file.close()
+file=open(filename,'w')
+file.write("I am cool")
+file.close()
+filename="test.txt"
+file=open(filename,'r')
+print(file.read())
+file.close()
