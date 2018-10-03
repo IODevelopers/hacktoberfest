@@ -1,0 +1,3 @@
+dob="my age is"
+age=(2018-2000)
+print(dob,age)
