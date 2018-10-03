@@ -1,0 +1,17 @@
+import os
+print(os.listdir())
+filename="text.txt.txt"
+file=open(filename,'r')
+print(file.read())
+file.close()
+file=open(filename,'a')
+file.write("I AM A BTECH STUDENT\n")
+file.close()
+file=open(filename,'r')
+print(file.readline())
+file.close()
+file=open(filename,'a')
+file.write("CAARMEL ENGINEERING\n")
+file.close()
+file=open(filename,'r')
+file.close()
