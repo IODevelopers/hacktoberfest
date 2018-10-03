@@ -1,0 +1,8 @@
+a=int(input("cost price"))
+b=int(input("selling price"))
+if(a>b):
+    loss=(a-b)
+    print("loss=",loss)
+else:
+    profit=(b-a)
+    print("profit=",profit)
