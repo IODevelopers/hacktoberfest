@@ -1,0 +1,7 @@
+age=int(input("Enter your age"))
+if age>=18 and age<90:
+	print("You are elligible")
+elif age>=90:
+	print("Submit your medical fitness certificate")
+else:
+	print("Not elligible")
