@@ -1,0 +1,8 @@
+a=int(input("enter salary ="))
+if(a<=10000):
+    c=(a*20/100)+(a*80/100)+a
+elif(a<=20000):
+    c=(a*25/100)+(a*90/100)+a
+elif(a>20000):
+    c=(a*30/100)+(a*95/100)+a
+print("gross salary",c)
