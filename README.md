@@ -1,6 +1,6 @@
 <h1 align="center">Hacktoberfest Open Hack Day</h1>
 
-![Hacktoberfest](img/cover.png)
+![Hacktoberfest](assets/cover.png)
 
 ## Instructions
 1. Goto [Hacktoberfest](https://hacktoberfest.digitalocean.com/) site and [Sign Up](https://hacktoberfest.digitalocean.com/sign_up/register) with your Github Account
