@@ -1,0 +1,3 @@
+#basic functions in python
+a=input()
+print(a)
