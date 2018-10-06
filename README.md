@@ -1,5 +1,6 @@
 
 <p align="center">
+  <img src="assets/logo.png" />
   <img src="assets/cover1.png" width="500px" height="500px"/>
 </p>
 <h1 align="center">:computer:Hacktoberfest 2018:computer:</h1>
