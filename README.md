@@ -1,6 +1,8 @@
-<h1 align="center">:computer:Hacktoberfest 2018:computer:</h1>
 
-![Hacktoberfest](assets/cover.png)
+<p align="center">
+  <img src="assets/cover1.png" width="500px" height="500px"/>
+</p>
+<h1 align="center">:computer:Hacktoberfest 2018:computer:</h1>
 
 ## :books: Instructions
 1. Goto [Hacktoberfest](https://hacktoberfest.digitalocean.com/) site and [Sign Up](https://hacktoberfest.digitalocean.com/sign_up/register) with your Github Account
