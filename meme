@@ -1,0 +1,6 @@
+#type conversion
+""" done by variable to be convereted")
+def fn(A)
+    b=type(A)
+    return b
+    
