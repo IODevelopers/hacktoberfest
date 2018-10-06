@@ -1,0 +1,8 @@
+
+a=float(input("enter the age"))
+if a>=18 and a<90:
+	print("you are elligible ")
+elif a>=90:
+	print("submit medical fitness documents")
+else:
+	print("not elligible")		
