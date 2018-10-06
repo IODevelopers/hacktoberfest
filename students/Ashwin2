@@ -1,0 +1,18 @@
+a=int(input("physics="))
+b=int(input("chemistry="))
+c=int(input("biology="))
+d=int(input("maths="))
+e=int(input("computer="))
+percentage=(a+b+c+d+e)/5
+if(percentage>=90):
+    print("grade a")
+elif(percentage>=80):
+    print("grade b")
+elif(percentage>=70):
+    print("grade c") 
+elif(percentage>=60):
+    print("grade d") 
+elif(percentage>=40):
+    print("grade e")
+else:
+    print("grade f") 
