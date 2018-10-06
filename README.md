@@ -1,4 +1,4 @@
-<h1 align="center">Hacktoberfest Open Hack Day</h1>
+<h1 align="center">Hacktoberfest 2018</h1>
 
 ![Hacktoberfest](assets/cover.png)
 
@@ -27,15 +27,19 @@
 
 ```terminal
 git clone https://github.com/IODevelopers/hacktoberfest.git
-cd hacktoberfest/students
+cd hacktoberfest/contribution
 ```
-
 - Create a new branch
 
 ```markdown
 git checkout -b my-new-branch
 ```
 - Add your contribution
+```
+mkdir your-github-username
+cd your-github-username
+//Add the source code of your program here
+```
 - Commit and push
 
 ```markdown
