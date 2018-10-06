@@ -1,0 +1,4 @@
+n=int(input("enter the number to be multiplied"))
+for i in range(12):
+	c=n*i
+	print("%d x %d = %d"%(n,i,c))
