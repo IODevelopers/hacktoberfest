@@ -1,0 +1,6 @@
+def findsum(a,b):
+	return int(a)+int(b)
+x=int(input("Enter your first no"))
+y=int(input("Enter your second no"))
+sum=findsum(x,y)
+print(sum)
