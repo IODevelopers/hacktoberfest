@@ -1,0 +1,7 @@
+limit=int(input("enter the limiting value"))
+i=2
+a=i
+while (i<=limit):
+	print(a,end=",")
+	i=i+2
+	a=i
