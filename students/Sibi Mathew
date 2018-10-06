@@ -1,0 +1,6 @@
+F=fahrenheit=float(input("enter the fahrenheit value"))
+C=(F-32)*(5/9)
+print("C",C)
+C=celcius=float(input("enter the celcius value"))
+F=(C*9/5)+32
+print("F",F)
