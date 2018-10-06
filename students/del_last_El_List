@@ -1,4 +1,0 @@
-list=[1,2,2,4]
-n=int(input("enter the index of the element:"))
-temp=list.pop()
-print("deleted element is ",temp,"\nnew list is " ,list )
