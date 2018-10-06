@@ -54,7 +54,7 @@ git push origin my-new-branch
 - How do I get stickers?
   - Stickers are included with your t-shirt, once you complete 5 PRs.
 - What happens if I complete fewer than 5 PRs by the end of the month?
-  - Unfortunately you will have to submit at least 5 PRs in order to get a T-shirt.
+  - Unfortunately you will have to submit at least 5 PRs in order to get a T-shirt. But, still you eligible for stickers. So cheers !!
   
 ## Organisation : [I/O Developers](https://iodev.co.in/)
 
