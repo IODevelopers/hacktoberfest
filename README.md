@@ -13,5 +13,40 @@
 <b>Remember to edit the file in each Pull requests</b>
 <b>Check your Progress in Hacktoberfest Site</b>
 
+## Getting Started
+
+- Fork this repo (button on top)
+- Clone on your local machine
+
+```terminal
+git clone https://github.com/IODevelopers/hacktoberfest.git
+cd hacktoberfest/students
+```
+
+- Create a new branch
+
+```markdown
+git checkout -b my-new-branch
+```
+- Add your contribution
+- Commit and push
+
+```markdown
+git add .
+git commit -m "your-commit-msg"
+git push origin my-new-branch
+```
+
+- Create a new pull request from your forked repository
+
+# FAQs
+
+- Who can contribute?
+  - Anyone with a github account and signed up for [hacktoberfest](https://hacktoberfest.digitalocean.com/) :)
+- Who are you and why are you doing this?
+  - We are a team of students [IODevelopers](https://github.com/IODevelopers). We are doing this because we love open
+  source and Hacktoberfest. We want to make it easier for people to get started with Hacktoberfest and Open source.
+
+
 ## Grab your T-Shirts and Stickers.... Happy Hacking!!
 # Organisation : [I/O Developers](https://iodev.co.in/)
