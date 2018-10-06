@@ -47,6 +47,8 @@ git push origin my-new-branch
 - Who are you and why are you doing this?
   - We are a team of students [IODevelopers](https://github.com/IODevelopers). We are doing this because we love open
   source and Hacktoberfest. We want to make it easier for people to get started with Hacktoberfest and Open source.
+- How do I track my progress?
+  - Log in with your GitHub account at [Hacktoberfest](https://hacktoberfest.digitalocean.com/) to check your progress and stats.
  
 
 
