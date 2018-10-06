@@ -1,0 +1,24 @@
+"""n1=float(input("Enter the value of n1:"))
+n2=float(input("Enter the value of n2:"))
+print("Sum is ", n1+n2)
+print("\nDifference is ", n1-n2)
+print("\nProduct is ", n1*n2)
+try:
+	ans=n1/n2
+except ZeroDivisionError as err1 :
+	print("There is an Exception")
+else:
+	print("\nQuotient is ", ans)
+try:
+	ans=n1%n2
+except:
+	print("zero division error")
+else:
+	print("\nmodules is ", n1%n2)"""
+
+try :
+	 a=input("enter the operation: ")
+	 result=eval(a)
+	 print(result)
+except:
+	print("division by zero is not possible !")
