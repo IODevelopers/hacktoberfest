@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/logo.png" />
+  <img src="../assets/logo.png" />
 </p>
 
 ## :books: Instructions
