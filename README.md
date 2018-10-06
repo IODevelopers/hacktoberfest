@@ -16,7 +16,7 @@
 
 ## Important Note 
 - [Students](/students) folder is reserved for students of [Amal Jyothi College of Engineering](https://ajce.in)
-- Others contribute to [Contribution](/contribution) folder**
+- Others contribute to [Contribution](/contribution) folder
 
 ## Warning
 - **Add genuine Pull Request as given in the Instruction**
