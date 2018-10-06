@@ -1,0 +1,4 @@
+string=input("Enter the sentence")
+print(string)
+print("The no of words is")
+print (string.count(' ')+1)
