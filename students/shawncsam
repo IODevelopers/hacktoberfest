@@ -1,0 +1,10 @@
+a=float(input("enter the value of a"))
+b=float(input("enter the value of b"))
+s=a+b
+e=a-b
+k=a/b
+l=a*b
+print("sum ;",s)
+print("difference",e)
+print("division",k)
+print("multiplication",l)
