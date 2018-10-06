@@ -1,0 +1,4 @@
+a_list=[1,2,2,4]
+a=a_list.pop(3)
+print("modified list is:",a_list)
+print("deleted element is",a)
