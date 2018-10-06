@@ -39,7 +39,7 @@ git push origin my-new-branch
 
 - Create a new pull request from your forked repository
 
-# FAQs
+## FAQs
 - What is Hacktoberfest?
   - Hacktoberfest is a month-long celebration of open source software run by DigitalOcean in partnership with GitHub and Twilio.
 - Who can contribute?
