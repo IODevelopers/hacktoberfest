@@ -14,7 +14,9 @@
 9. On next page click on <b>Create Pull Request</b>
 10. Repeat steps 7-9 by adding source code of different programs and **Check your Progress in Hacktobefest site**
 
-**Important Note - [Students](/students) folder is reserved for students of [Amal Jyothi College of Engineering](https://ajce.in). Others contribute to [Contribution](/contribution) folder**
+## Important Note 
+- [Students](/students) folder is reserved for students of [Amal Jyothi College of Engineering](https://ajce.in)
+- Others contribute to [Contribution](/contribution) folder**
 
 ## Warning
 - **Add genuine Pull Request as given in the Instruction**
