@@ -1,0 +1,15 @@
+import os
+print(os.listdir())
+filename="test.txt"
+file=open(filename,'r')
+print(file.read())
+file=open(filename,'w')
+file.write("welcome to world")
+file.close()
+file=open(filename,'r')
+print(file.read())
+file=open(filename,'a')
+file.write("be simple")
+file.close()
+file=open(filename,'r')
+print(file.read())
