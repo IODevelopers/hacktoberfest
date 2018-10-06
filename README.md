@@ -1,8 +1,10 @@
-<h1 align="center">Hacktoberfest 2018</h1>
 
-![Hacktoberfest](assets/cover.png)
+<p align="center">
+  <img src="assets/logo.png" />
+  <img src="assets/cover1.png" width="500px" height="500px"/>
+</p>
 
-## Instructions
+## :books: Instructions
 1. Goto [Hacktoberfest](https://hacktoberfest.digitalocean.com/) site and [Sign Up](https://hacktoberfest.digitalocean.com/sign_up/register) with your Github Account
 2. Goto [Contribution](/contribution) Folder
 3. Create a new folder in your **Github username**
@@ -14,15 +16,17 @@
 9. On next page click on <b>Create Pull Request</b>
 10. Repeat steps 7-9 by adding source code of different programs and **Check your Progress in Hacktobefest site**
 
-**Important Note - [Students](/students) folder is reserved for students of [Amal Jyothi College of Engineering](https://ajce.in). Others contribute to [Contribution](/contribution) folder**
+## :pencil: Important Note 
+- [Students](/students) folder is reserved for students of [Amal Jyothi College of Engineering](https://ajce.in)
+- Others contribute to [Contribution](/contribution) folder
 
-## Warning
+## :rotating_light: Warning
 - **Add genuine Pull Request as given in the Instruction**
 - **Genuine PR's will be merged to the repo and you will be added as a [Contributor](https://iodevelopers.github.io/hacktoberfest/contributors.html) in the site**
 - **Spam PR's requested will not be counted by the Hacktoberfest and will not be merged to repo**
 - **Follow the Instructions strictly**
 
-## Getting Started
+## :computer: Getting Started
 
 - Fork this repo (button on top)
 - Clone on your local machine
@@ -52,7 +56,7 @@ git push origin my-new-branch
 
 - Create a new pull request from your forked repository
 
-## FAQs
+## :zap: FAQs
 - What is Hacktoberfest?
   - Hacktoberfest is a month-long celebration of open source software run by DigitalOcean in partnership with GitHub and Twilio.
 - Who can contribute?
@@ -69,7 +73,7 @@ git push origin my-new-branch
 - What happens if I complete fewer than 5 PRs by the end of the month?
   - Unfortunately you will have to submit at least 5 PRs in order to get a T-shirt.
   
-## Organisation : [I/O Developers](https://iodev.co.in/)
+## :globe_with_meridians: Organisation : [I/O Developers](https://iodev.co.in/)
 
-## Grab your T-Shirts and Stickers.... Happy Hacking!!
+## :shirt: Grab your T-Shirts and Stickers.... Happy Hacking!!
 
