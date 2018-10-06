@@ -1,0 +1,4 @@
+test_list=[1,2,2,4]
+print(test_list)
+del test_list[2]
+print(test_list)
