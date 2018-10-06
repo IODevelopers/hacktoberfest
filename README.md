@@ -51,8 +51,9 @@ git push origin my-new-branch
   - Log in with your GitHub account at [Hacktoberfest](https://hacktoberfest.digitalocean.com/) to check your progress and stats.
 - I completed 5 PRs. When will I receive my t-shirt?
   - We will start sending out emails with more details on redeeming t-shirts throughout the month. Stay tuned!
- 
-
+- How do I get stickers?
+  - Stickers are included with your t-shirt, once you complete 5 PRs.
+  
 
 ## Grab your T-Shirts and Stickers.... Happy Hacking!!
 # Organisation : [I/O Developers](https://iodev.co.in/)
