@@ -1,4 +1,4 @@
-<h1 align="center">Hacktoberfest 2018</h1>
+<h1 align="center">:computer:Hacktoberfest 2018:computer:</h1>
 
 ![Hacktoberfest](assets/cover.png)
 
