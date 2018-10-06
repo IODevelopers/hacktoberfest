@@ -1,0 +1,12 @@
+a=float(input("enter number 1:"))
+b=float(input("enter number 2:"))
+add=a+b
+print("add result=",add)
+subtract=a-b
+print("subtraction result=",subtract)
+devide=a/b
+print(" division result=",devide)
+multiply=a*b
+print("multiplication result=",multiply)
+modulus=a%b
+print("modulus result=",modulus)
