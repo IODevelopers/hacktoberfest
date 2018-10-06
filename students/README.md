@@ -1,5 +1,6 @@
-<h1 align="center">:computer:Hacktoberfest 2018:computer:</h1>
-
+<p align="center">
+  <img src="assets/logo.png" />
+</p>
 ## :books: Instructions
 1. Goto [Hacktoberfest](https://hacktoberfest.digitalocean.com/) site and [Sign Up](https://hacktoberfest.digitalocean.com/sign_up/register) with your Github Account
 2. Goto [Contribution](/contribution) Folder
