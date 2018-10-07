@@ -21,10 +21,10 @@
 - Others contribute to [Contribution](/contribution) folder
 
 ## :rotating_light: Warning
-- **Add genuine Pull Request as given in the Instruction**
-- **Genuine PR's will be merged to the repo and you will be added as a [Contributor](https://iodevelopers.github.io/hacktoberfest/contributors.html) in the site**
-- **Spam PR's requested will not be counted by the Hacktoberfest and will not be merged to repo**
-- **Follow the Instructions strictly**
+- Request only genuine PR's as given in the Instruction
+- Genuine PR's will be merged to the repo and you will be added as a [Contributor](https://iodevelopers.github.io/hacktoberfest/contributors.html) in the site
+- Spam PR's requested will not be counted by the Hacktoberfest and will not be merged to repo
+- Follow the Instructions strictly
 
 ## :computer: Getting Started
 
@@ -73,7 +73,9 @@ git push origin my-new-branch
 - What happens if I complete fewer than 5 PRs by the end of the month?
   - Unfortunately you will have to submit at least 5 PRs in order to get a T-shirt.
   
-## :globe_with_meridians: Organisation : [I/O Developers](https://iodev.co.in/)
+## :globe_with_meridians: [Organisation](https://www.iodev.co.in/)
+  <p align="center">
+    <img src="assets/iodev.png" width="300px"/>
+  </p>
 
-## :shirt: Grab your T-Shirts and Stickers.... Happy Hacking!!
 
