@@ -21,10 +21,10 @@
 - Others contribute to [Contribution](/contribution) folder
 
 ## :rotating_light: Warning
-- **Add genuine Pull Request as given in the Instruction**
-- **Genuine PR's will be merged to the repo and you will be added as a [Contributor](https://iodevelopers.github.io/hacktoberfest/contributors.html) in the site**
-- **Spam PR's requested will not be counted by the Hacktoberfest and will not be merged to repo**
-- **Follow the Instructions strictly**
+- Request only genuine PR's as given in the Instruction
+- Genuine PR's will be merged to the repo and you will be added as a [Contributor](https://iodevelopers.github.io/hacktoberfest/contributors.html) in the site
+- Spam PR's requested will not be counted by the Hacktoberfest and will not be merged to repo
+- Follow the Instructions strictly
 
 ## :computer: Getting Started
 
