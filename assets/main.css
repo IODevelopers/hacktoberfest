@@ -196,6 +196,11 @@ a.top-nav--sign-up:hover{
     right:0;
     text-align:center
 }
+.footer_container{
+text-align:center;
+vertical-align:middle;
+margin-top: 10px;
+}
 .footer__logos{
     letter-spacing:30px
 }
