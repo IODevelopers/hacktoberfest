@@ -190,8 +190,6 @@ a.top-nav--sign-up:hover{
     bottom:0;
     left:0;
     opacity:0.8;
-    padding-bottom:1rem;
-    padding-top:1.5rem;
     position:absolute;
     right:0;
     text-align:center
@@ -1371,4 +1369,12 @@ a.eventkit--assets:hover{
      font-weight: bold;
      font-size: 3rem;
      line-height: 45px;
+}
+.footer--credits {
+    color:#cccccc;
+    font-family:"Sailec-Light", system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+    font-size:1.2em;
+    letter-spacing:0.5px;
+    margin-top: 2rem;
+    text-align: center;
 }
