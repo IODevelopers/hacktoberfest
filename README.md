@@ -73,7 +73,9 @@ git push origin my-new-branch
 - What happens if I complete fewer than 5 PRs by the end of the month?
   - Unfortunately you will have to submit at least 5 PRs in order to get a T-shirt.
   
-## :globe_with_meridians: Organisation : [I/O Developers](https://iodev.co.in/)
+## :globe_with_meridians: [Organisation](https://www.iodev.co.in/)
+  <p align="center">
+    <img src="assets/iodev.png" width="300px"/>
+  </p>
 
-## :shirt: Grab your T-Shirts and Stickers.... Happy Hacking!!
 
