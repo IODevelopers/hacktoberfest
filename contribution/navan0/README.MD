@@ -1,42 +1,26 @@
-Consider a staircase of size :
-
-   #
-  ##
- ###
-####
-Observe that its base and height are both equal to , and the image is drawn using # symbols and spaces. The last line is not preceded by any spaces.
-
-Write a program that prints a staircase of size .
+Calculate and print the sum of the elements in an array, keeping in mind that some of those integers may be quite large.
 
 Function Description
 
-Complete the staircase function in the editor below. It should print a staircase as described above.
+Complete the aVeryBigSum function in the editor below. It must return the sum of all array elements.
 
-staircase has the following parameter(s):
+aVeryBigSum has the following parameter(s):
 
-n: an integer
+ar: an array of integers .
 Input Format
 
-A single integer, , denoting the size of the staircase.
-
-Constraints
-
- .
+The first line of the input consists of an integer . 
+The next line contains  space-separated integers contained in the array.
 
 Output Format
 
-Print a staircase of size  using # symbols and spaces.
-
-Note: The last line must have  spaces in it.
+Print the integer sum of the elements in the array. 
+ 
 
 Sample Input
 
-6 
-Sample Output
+5
+1000000001 1000000002 1000000003 1000000004 1000000005
+Output
 
-     #
-    ##
-   ###
-  ####
- #####
-######
+5000000015
