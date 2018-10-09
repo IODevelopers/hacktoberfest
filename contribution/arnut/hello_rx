@@ -1,0 +1,3 @@
+func onTextChanged() {
+ loginBtn.isEnabled = (username.length > 4) && (password.length > 4)
+}
