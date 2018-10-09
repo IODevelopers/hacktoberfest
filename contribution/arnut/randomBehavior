@@ -1,0 +1,2 @@
+let behaviors = ["good","bad"]
+behaviors[random.uint(behaviors.count-1]
