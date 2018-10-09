@@ -39,7 +39,7 @@ cd hacktoberfest/contribution
 ```markdown
 git checkout -b my-new-branch
 ```
-- Add your contribution
+- Add your contribution.
 ```
 mkdir your-github-username
 cd your-github-username
