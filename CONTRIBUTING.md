@@ -20,15 +20,15 @@
 - Others contribute to [Contribution](/contribution) folder
 
 ## :rotating_light: Warning
-- **Add genuine Pull Request as given in the Instruction**
-- **Genuine PR's will be merged to the repo and you will be added as a [Contributor](https://iodevelopers.github.io/hacktoberfest/contributors.html) in the site**
-- **Spam PR's requested will not be counted by the Hacktoberfest and will not be merged to repo**
-- **Follow the Instructions strictly**
+- Add genuine Pull Request as given in the Instruction
+- Genuine PR's will be merged to the repo and you will be added as a [Contributor](https://iodevelopers.github.io/hacktoberfest/contributors.html) in the site
+- Spam PR's requested will not be counted by the Hacktoberfest and will not be merged to repo
+- Follow the Instructions strictly
 
 ## :computer: Getting Started
 
 - Fork this repo (button on top)
-- Clone on your local machine.
+- Clone on your local machine
 
 ```terminal
 git clone https://github.com/IODevelopers/hacktoberfest.git
@@ -39,7 +39,7 @@ cd hacktoberfest/contribution
 ```markdown
 git checkout -b my-new-branch
 ```
-- Add your contribution.
+- Add your contribution
 ```
 mkdir your-github-username
 cd your-github-username
