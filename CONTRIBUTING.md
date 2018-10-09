@@ -4,8 +4,8 @@
 </p>
 
 ## :books: Instructions
-1. Goto [Hacktoberfest](https://hacktoberfest.digitalocean.com/) site and [Sign Up](https://hacktoberfest.digitalocean.com/sign_up/register) with your Github Account
-2. Goto [Contribution](/contribution) Folder
+1. Goto [Hacktoberfest](https://hacktoberfest.digitalocean.com/) site and [Sign Up](https://hacktoberfest.digitalocean.com/sign_up/register) with your Github Account.
+2. Goto [Contribution](/contribution) Folder.
 3. Create a new folder in your **Github username**
 4. Goto Bottom of the page, On Commit changes check the checkbox <b>Create a new branch for this commit and start a pull request</b> and Click on <b>Propose File Change</b> Button
 5. On next page click on <b>Create Pull Request</b>
