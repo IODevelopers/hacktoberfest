@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <link rel="stylesheet" href="https://unpkg.com/purecss@1.0.0/build/pure-min.css" integrity="sha384-nn4HPE8lTHyVtfCBi5yW9d20FjT8BJwUXyWZT9InLYax14RDjBj46LmSztkmNP9w" crossorigin="anonymous">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <script src="baffle.js"></script> 
+        <title>Obfuscuted Text</title>
+    </head>
+    <body>
+        <h1 class="headline">Hello, world. My name is Jon Leopard.</h1>
+        <p class="paragraph">This was a tiny project built for the yearly hacktoberfest event.</p>
+
+        <script>
+            let b = baffle('.headline', {
+            characters: 'abcdefghijklmnopqrstuvwxyz',
+            speed: 55
+            });
+            b.reveal(1000);
+
+            let z = baffle('.paragraph', {
+            characters: 'abcdefghijklmnopqrstuvwxyz',
+            speed: 65
+            });
+            z.reveal(2000);
+         
+        </script>
+    </body>
+</html>
