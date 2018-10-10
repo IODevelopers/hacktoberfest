@@ -197,6 +197,7 @@ a.top-nav--sign-up:hover{
 .footer_container{
 text-align:center;
 vertical-align:middle;
+margin-top: -250px;
 }
 .footer__logos{
     letter-spacing:30px
