@@ -101,11 +101,24 @@ def main():
             resultado[i] = zakharov(Pop[i])
         
         resultado.sort()
+        #print(resultado)
+        #print('\nM')
         r[j][0] = resultado[0]
+        #print(r[j][0])
+        #print('\nP')
         r[j][1] = resultado[qtInd-1]
+        #print(r[j][1])
+        #print('\nMed')
         r[j][2] = np.mean(resultado)
-       
+        #print(r[j][2])
+        
     print(r)
+    '''print("\nMelhores valores: ")
+    print(r[:, 0])
+    print("\nMédias: ")
+    print(r[:, 2])
+    print("\nPiores valores: ")
+    print(r[:, 1])'''
     
     print("\nMelhores valores: ")
     gr.plot(r[:, 0])
@@ -136,6 +149,10 @@ def main():
     
     plt.boxplot(r[:, 2])
     plt.show()
+    
+
+    
+    
      
     
 if __name__ == '__main__':
