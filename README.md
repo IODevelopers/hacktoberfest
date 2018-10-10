@@ -72,6 +72,8 @@ git push origin my-new-branch
   - Stickers are included with your t-shirt, once you complete 5 PRs.
 - What happens if I complete fewer than 5 PRs by the end of the month?
   - Unfortunately you will have to submit at least 5 PRs in order to get a T-shirt.
+ Note:
+ This is all about learning so enjoy this month of learning and all the best for your T-shirt.
   
 ## :globe_with_meridians: [Organisation](https://www.iodev.co.in/)
   <p align="center">
