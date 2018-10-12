@@ -24,7 +24,7 @@
 - Request only genuine PR's as given in the Instruction
 - Genuine PR's will be merged to the repo and you will be added as a [Contributor](https://iodevelopers.github.io/hacktoberfest/contributors.html) in the site
 - Spam PR's requested will not be counted by the Hacktoberfest and will not be merged to repo
-- Follow the Instructions strictly
+- Follow the Instructions strictly.
 
 ## :computer: Getting Started
 
@@ -63,7 +63,7 @@ git push origin my-new-branch
   - Anyone with a github account and signed up for [Hacktoberfest](https://hacktoberfest.digitalocean.com/)
 - Who are you and why are you doing this?
   - We are a team of students [IODevelopers](https://github.com/IODevelopers). We are doing this because we love open
-  source and Hacktoberfest. We want to make it easier for people to get started with Hacktoberfest and Open source.
+  source and Hacktoberfest. We want to make it easier for people to get started with Hacktoberfest and Open Source.
 - How do I track my progress?
   - Log in with your GitHub account at [Hacktoberfest](https://hacktoberfest.digitalocean.com/) to check your progress and stats.
 - I completed 5 PRs. When will I receive my t-shirt?
