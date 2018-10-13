@@ -1,1 +1,60 @@
 
+#include <stdio.h>
+//#include <string.h>
+
+int main() {
+
+    int  n,i;
+    char shoes[7]={'\0'};
+    char size[4];
+    char tmp[4];
+    char side[1];
+    int L[101] = {0};
+    int R[101] = {0};
+
+    scanf("%d", &n);
+
+    for(i=0; i<n+n;i++){
+        scanf("%s" , shoes);
+      //  printf ("%s\n",shoes);
+
+
+        if(i%2==0){
+            strcpy(size,shoes);
+            //printf ("size= %s\n",size);
+            strcpy(tmp,size);
+
+        }else{
+             strcpy(side,shoes);
+            //printf ("side= %s\n",side);
+
+        }
+
+
+        if(!strcmp("L",side)){
+         //printf ("hi=%s\n",tmp);
+            L[atoi(tmp)]++;
+        }
+        else if(!strcmp("R",side))
+           R[atoi(tmp)]++;
+
+
+
+
+    }
+
+
+    int c=0;
+
+    for(i=1;i<101;i++){
+        if(L[i]<=R[i] && R[i]!=0)
+            c+=L[i];
+        else if(R[i]<L[i] && L[i] !=0)
+            c+=R[i];
+
+    }
+
+    printf("%d",c);
+
+    return 0;
+}
