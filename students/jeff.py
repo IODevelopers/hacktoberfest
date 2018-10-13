@@ -3,4 +3,4 @@ try:
   result=eval(a)
   print(result)
 except:
-	print("division not possible")
+  print("division not possible")
