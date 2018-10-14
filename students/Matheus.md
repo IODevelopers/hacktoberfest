@@ -7,7 +7,7 @@ My name is Matheus de Sousa Barros currently, this is my first Hacktoberfest.
 I'm a Full-stack Web Developer.
 
 ## Certificates:
-- Welcome to the django
+- Welcome to Django
 
 ## Languages that I know:
 
