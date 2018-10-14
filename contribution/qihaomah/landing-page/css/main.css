@@ -1,0 +1,107 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat|Raleway');
+body {
+    background-color: #2d2d2d;
+}
+
+#firstDiv {
+    background-image: url("../img/dark-computer-background.jpg");
+    background-color: #2d2d2d;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 100vh;
+    margin-top: -56px;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+.title-text {
+    font-family: 'Montserrat', sans-serif;
+    /* font-weight: 00; */
+    text-align: center;
+    padding-top: 30px;
+}
+
+.header-text h1 {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 200;
+    color: white;
+}
+
+.header-text p {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 100;
+    color: white;
+}
+
+.custom-nav {
+    background-color: transparent;
+}
+
+.nav-link {
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 200;
+}
+
+.navbar-brand {
+    color: white;
+}
+
+#about-us {
+    background-color: #f0f0f0;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+@media (min-width:768px) {
+    #about-us {
+        height: 100vh;
+    }
+}
+
+.platform {
+    background-color: white;
+    padding: 0px;
+    margin: 30px 10px 30px 10px;
+}
+
+.platforms {
+    display: flex;
+    justify-content: space-around;
+    flex-flow: row wrap;
+}
+
+.card-title {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+    font-size: 15px;
+}
+
+.card-description {
+    font-family: 'Raleway', sans-serif;
+    font-size: 14px;
+}
+
+footer {
+    background-color: #111111;
+    color: white;
+    text-align: center;
+    padding: 20px 0px 10px 0px;
+}
+
+footer p {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 100;
+    line-height: 1.0;
+}
+
+.card {
+    box-shadow: 2px 2px 4px rgba(0,0,0,0.3);
+    border: none;
+}
