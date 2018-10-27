@@ -1,0 +1,8 @@
+name=input("enter the name")
+rollno=input("enter the rollno")
+branch=input("enter the branch")
+section=input("enter the section")
+print("place"=+place)
+print("rollno"=+rollno)
+print("branch"=+branch)
+print("section"=+section)
