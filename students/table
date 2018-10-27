@@ -1,0 +1,91 @@
+<body>
+<table width="100%">
+    <tbody><tr>
+        <th></th>
+        <td align="left"><img src="task.png" width="60%" height="70"></td>
+        <th colspan="6" align="right">Sample LLC</th>
+        
+        
+       
+    </tr>    
+    <tr>
+        <td colspan="5"></td>
+        <td colspan="2" align="right">25-26 Emery tr<br>New York<br>USA 190020 <br>sales@sample.com<br></td>
+
+    </tr>
+    <tr>
+       <td colspan="6"><hr size="5" color="black"></td>
+       <td></td>
+    
+    </tr>
+    <tr>       
+        <td colspan="5" align="left">john Doe<br>Contoso ltd<br>55 East 52nd street 21st<br>newyork<br>US 10022</td> 
+        <td align="right" colspan="2">INVOICE<b>INV 20141031</b><br>11/3/2014 8:00AM<br>payment terms:30 days</td>
+    <td></td>
+</tr><tr>
+        <td align="right"><b>#</b></td>
+        <td align="right"><b>Title</b></td>   
+        <td></td>
+        <td align="right"><b>Quantity</b></td> 
+        <td align="right"><b>Unit Price($)</b></td> 
+        <td align="right"><b>Subtotal($)</b></td>
+        <th></th>
+    </tr>       
+    <tr>
+
+        <td></td>
+        <td colspan="5"><hr size="2" colour="black"></td>
+        
+    </tr>
+<tr>
+    <td></td>
+    <td align="left">0</td>
+    <td colspan="2" align="left">Product Name #1</td>
+    <td align="right">0</td>
+    <td align="left">499</td>
+    <td align="right">499</td>
+    <td></td>
+    </tr>
+    <tr>
+        <td></td>
+        <td align="left">1</td>
+        <td colspan="2" align="left">product name #2</td>
+        <td align="right">1</td>
+        <td align="left">599</td>
+    <td align="right">599</td>
+     <td></td>
+        
+    </tr>
+    <tr><th colspan="5"></th>
+    <th align="left">$ Total</th>
+    <th align="right">$1098</th>
+   
+</tr>
+<tr valign="">
+    <th></th>
+    <th colspan="3" align="left"><h2>PAYMENT DETAILS</h2></th>
+    <th></th>
+    <th colspan="3" align="right"><h2>Other information</h2></th>
+    <th></th>
+</tr>
+<tr>
+    <td></td>
+    <td colspan="3">BANK NAME<br><b>BANK/SORT CODE:<b>32-75-97<br>Account Number:<b>28270761<br><b>IBAN<b><br><b></b>BIC:<b>220197<b><br><b>Payment reference:INV20141031</b></b></b></b></b></b></b></b></td>
+    <td></td>    
+</tr>
+    <tr></tr>
+    <tr><td></td>
+    <td colspan="3" height="70"><b>Payment Should be made by bank transfer or cheque made payable to john smith</b></td>
+</tr>
+
+
+<tr></tr>
+<tr></tr>
+<tr></tr>
+<tr></tr>
+<tr></tr>
+
+</tbody></table>
+    
+
+</body>
