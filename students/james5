@@ -1,0 +1,7 @@
+def power(a,b):
+	return a**b
+a=int(input("Enter the number :"))
+b=int(input("Enter the power :"))
+c=power(a,b)
+print(c)
+	
