@@ -1,0 +1,8 @@
+a=int(input("Enter no.of numbers :"))
+d=0
+for b in range(a):
+	c=int(input("Enter the number :"))
+	if(c%2==0):
+		d=d+c
+print("Sum of even numbers :",d)
+
