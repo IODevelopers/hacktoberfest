@@ -1,0 +1,24 @@
+def addi(a,b):
+	print("Sum :",a+b)
+def subs(a,b):
+	print("Difference :",a-b)
+def pro(a,b):
+	print("Product :",a*b)
+def div(a,b):
+	print("Quotient :",a/b)
+a=int(input("Enter the first number :"))
+b=int(input("Enter the second number :"))
+c=int(input("\n\nMENU\n1.Addition\n2.Substraction\n3.Multiplication\n4.Division"))
+if(c==1):
+	addi(a,b)
+elif(c==2):
+	subs(a,b)
+elif(c==3):
+	pro(a,b)
+elif(c==4):
+	div(a,b)
+else:
+	print("Invalid Entry")
+	
+	
+
