@@ -1,0 +1,15 @@
+a=int(input("Enter upper range :"))
+f=int(input("Enter lower range :"))
+for b in range(f,a):
+	d=0
+	e=b
+	while(b>0):
+		c=b%10
+		d=d+(c*c*c)
+		b=b//10
+	if(e==d):
+		print(d)
+	
+	
+
+
