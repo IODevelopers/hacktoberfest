@@ -1,0 +1,5 @@
+def factorial(x)
+  a=a*factorial(x-1)
+a=int(input('enter a number'))
+b=factorial(a)
+print(b)
