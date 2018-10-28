@@ -1,0 +1,11 @@
+a=int(input("Enter no.of entries :"))
+d=0
+e=0
+for b in range(a):
+	c=int(input("Enter the number :"))
+	if(c==0):
+		d=d+1
+	elif(c<0):
+		e=e+1
+print("No.of zero :",d,"\nNo.of negative numbers :",e)
+
