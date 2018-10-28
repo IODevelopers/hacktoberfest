@@ -1,0 +1,12 @@
+def factorial(a):
+	d=1
+	for i in range(1,a+1):
+		d=d*i
+	return d
+n=int(input("Enter the n value :"))
+r=int(input("Enter the r value :"))
+c=factorial(n)
+e=factorial(r)
+f=factorial(n-r)
+print("nCr value is :",c/(e*f))
+	
