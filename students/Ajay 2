@@ -1,0 +1,12 @@
+a=int(input("Enter the number :"))
+print("0\n1")
+c=0
+b=1
+for i in range(a-2):
+	d=b+c
+	print(d)
+	c=b
+	b=d
+	
+	
+
