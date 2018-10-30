@@ -1,0 +1,13 @@
+from PIL import Image
+
+image1 = Image.open('city.jpg')
+"""image1.show()"""
+image1.save('city.png')from PIL import Image
+
+image1 = Image.open('city.jpg')
+"""image1.show()"""
+image1.save('city.png')from PIL import Image
+
+image1 = Image.open('city.jpg')
+"""image1.show()"""
+image1.save('city.png')
