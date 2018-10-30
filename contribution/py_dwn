@@ -1,0 +1,61 @@
+from pytube import YouTube
+import win32clipboard
+import os
+dest = os.path.dirname('C:\\Users\\asish\\Desktop\\dump')
+# get clipboard data
+win32clipboard.OpenClipboard()
+data = win32clipboard.GetClipboardData()
+win32clipboard.CloseClipboard()
+yt=YouTube(data)
+#print(data)
+videos = yt.streams.all()
+#print(videos)
+print("\n\n")
+videos = str(videos)
+videos = videos.replace("\"",".")
+print("MP4")
+if("itag=.18" in str(videos)):
+     w = "AVAILABLE"
+else:
+     w = "NOT AVAILABLE"
+print("1.\t\t360p\t" + w)    #18
+
+
+if("itag=.22" in str(videos)):
+     w = "AVAILABLE"
+else:
+     w = "NOT AVAILABLE"
+print("2.\t\t720p\t" + w)      #22
+
+
+if("itag=.137" in videos):
+     w = "AVAILABLE"
+else:
+     w = "NOT AVAILABLE" 
+print("3.\t\t1080p\t" + w)    #137
+
+
+print("MP3--ONLY--")
+if("itag=.171" in videos):
+     w = "AVAILABLE"
+else:
+     w = "NOT AVAILABLE" 
+print("4.\t\t128kbp\t" + w)  #171
+opt = int(input())
+vid = yt.streams.get_by_itag(171)
+vid.download(dest)
+print("meh")
+input()
+
+
+
+
+
+
+
+
+
+
+
+
+
