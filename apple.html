@@ -1,0 +1,80 @@
+<!doctype html>
+<html>
+    <head>
+        <style>
+            .ctr{
+                position:relative;
+                display:block;
+                width:200px;
+                height:200px;
+                color:black;
+                border-radius: 50%;
+                box-shadow:
+                    180px 180px 0px 0px currentColor,
+                    300px 180px 0px 0px currentColor;
+                
+            }
+            .ctr::after{
+                content: " ";
+                position: absolute;
+                height:190px;
+                width:150px;
+                box-shadow:
+                    180px 272px 0px 0px currentColor;
+                border-radius: 0 0 0 100%;
+            }
+            .ctr::before{
+                content: "";
+                position: absolute;
+                height:190px;
+                width:150px;
+                box-shadow:
+                    350px 272px 0px 0px currentColor;
+                border-radius: 0 0% 100% 0;
+                
+            }
+            .c{
+                position: absolute;
+                height:200px;
+                width: 180px;
+                border-radius:100%;
+                box-shadow:
+                    248px 263px 0px 0px rgb(0, 0, 0);
+            } 
+            .c::after{
+                content: "";
+                position: absolute;
+                box-shadow: 337px 95px 0px 0px rgb(0, 0, 0);
+                width:90px;
+                height:90px;
+                border-radius:100% 0 100% 0;
+            }
+            .r{
+                position: absolute;
+                width:130px;
+                height:130px;
+                border-radius: 100%;
+                box-shadow:
+                    440px 210px 0px 0px white;
+                /* background-color: aquamarine; */
+            }
+
+            .b{
+                position:absolute;
+                width:200px;
+                height:200px;
+                background-color:white;
+                border-radius:100%;
+                top:420px;
+                left:236px;
+            }
+        </style>
+    </head>
+    <body>
+        <div class="ctr">
+            <div class="c"></div>
+            <div class="b"></div>
+            <div class="r"></div>
+        </div>
+    </body>
+</html>
