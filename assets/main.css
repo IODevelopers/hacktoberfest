@@ -50,6 +50,12 @@ html,h1,h2,h3,h4,h5,h6{
 h1,h2,h3,h4,h5,h6{
     font-family:"Sailec-Bold", system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Helvetica Neue", "Helvetica", "Arial", sans-serif
 }
+h2:hover{
+    color: #c3aed6;
+}
+h3:hover{
+    color: #c3aed6;
+}
 a{
     color:#411e2f;
     text-decoration:underline;
