@@ -73,7 +73,7 @@ a:focus{
     color:#fff
 }
 body{
-    background-image:url(computer-1-ac501e54260f53f627b8f2d8f42da0811b868214852dd99a9c095344884f576c.png),url(computer-2-2cdd15a9fe9ad8dbc2de34fbb395243df58b73863a4ffca6b417ca1a21d06d2f.png),url(bg-noise-867a64f4a090fcaa19c0c1531b5bf1863feb109a15ac8de23d7f6cf4ff43de10.png);
+    background-image:url(computer-1-ac501e54260f53f627b8f2d8f42da0811b868214852dd99a9.png),url(computer-2-2cdd15a9fe9ad8dbc2de34fbb395243df58b73863a4ffca6b417ca1a21d06d2f.png),url(bg-noise-867a64f4a090fcaa19c0c1531b5bf1863feb109a15ac8de23d7f6cf4ff43de10.png);
     background-position:left 0 top 140px, right 0 top 350px, center;
     background-repeat:no-repeat, no-repeat, repeat;
     background-size:396px, 396px, auto;
