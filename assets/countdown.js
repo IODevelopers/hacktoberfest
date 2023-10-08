@@ -1,4 +1,4 @@
-const endOfHackathon = new Date('Oct 31, 2018 23:59:59').getTime()
+const endOfHackathon = new Date('Oct 31, 2023 23:59:59').getTime()
 const second = 1000
 const minute = second * 60
 const hour = minute * 60
